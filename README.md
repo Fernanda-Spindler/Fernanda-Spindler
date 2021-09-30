@@ -13,7 +13,8 @@
   <img align="center" alt="Fernanda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Fernanda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Fernanda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+  <img align="right" alt="Fernanda-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/693323996783181867/892600798335352872/IMG-20210928-WA0007.jpg">
+ </div>
 
 ##
 
